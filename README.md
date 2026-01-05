@@ -1,1 +1,1 @@
-# ISA-Winter-2026
+# ISA Winter Training 2026
